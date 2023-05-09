@@ -1,6 +1,7 @@
 #####################################################################################################################
 
 THIS DATA PACKAGE ACCOMPANIES: The Diversity of Animals Identified as Keystone Species, I. Shukla, K.M. Gaynor, B. Worm, C.T Darimont
+
 This data package contains the original dataset as well as R code used to generate figures and analysis.
 
 ############################################# CONTENTS ######################################################################## 
@@ -30,23 +31,25 @@ Year: Year that the article was published
 
 Journal: Journal that the article was published in. NA indicates a book
 
-Community Response: The catagorey of signifcant community change caused by keystone absence/ decreased presence 
+Community Response: The category of significant community change caused by keystone absence/ decreased presence 
 
 Additional community response: Additional community chnage indicated by the authors
 
-Justification for keystoneness: Method that the authors used to justify a species kesytone status
+Justification for keystoneness: Method that the authors used to justify a species keystone status
 
-Detailed justification: subcatagorey of "Justification for keystoneness"
+Detailed justification: subcategory of "Justification for keystoneness"
 
-FILE: Animalia_Index.csv
+
+
+FILE: Diversity_of_keystones_index.csv
 
 id: Indicates an individual data point
 
 common_name: Species common name
 
-class: Species taxonomic class. "1" <- "Fish", "2" <- "herp", "3" <- "bird", "4" <- "mammal", "5" <- "arthropod", "6" <- "echinoderm", "7" <- "mollusc"
+class: Species taxonomic class. "1" <- "fish", "2" <- "herp", "3" <- "bird", "4" <- "mammal", "5" <- "arthropod", "6" <- "echinoderm", "7" <- "mollusc"
 
-role: functional role that the keystone species performs. "1" <- "consumer", "2" <- "prey", "3" <- "modifier"
+role: Functional role that the keystone species performs. "1" <- "consumer", "2" <- "prey", "3" <- "modifier"
 
 trophic_simp: Simplified keystone species trophic level. "1" <- "low", "2" <- "mid", "3" <- "high" 
 
@@ -56,7 +59,7 @@ log_mass <- Species average body mass, logged
 
 ACKNOWLEDGEMENTS
 
-This database was compiled by IS using published literature. IS was funded by a Raincoast Conservation Fellowship, and CTD by an NSERC Discovery Grant.
+This database was compiled by IS using published literature. IS was funded by a Raincoast Conservation Fellowship, and CTD by NSERC Discovery Grant 435683.
 
 
 
