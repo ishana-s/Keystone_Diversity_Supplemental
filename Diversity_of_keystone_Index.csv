@@ -1,0 +1,218 @@
+﻿id,common_name,class,role,trophic_simp,log_mass
+1,Alewife,1,1,1,2.301029996
+2,Mole Salamander,2,1,2,1.230448921
+3,Lesser Sand Eel,2,2,1,0.294466226
+4,Sand Lace,1,2,3,0.271841607
+5,Snow goose,3,1,1,3.420945406
+6,Minke Whale,4,3,3,7
+7,Blue Whale,4,3,3,8.278753601
+8,Pygmy Whale,4,3,3,7.698970004
+9,Fin Whale,4,3,3,7.903089987
+10,Red-lined triggerfish,1,1,1,1.92808846
+11,Burrowing bettong,4,3,1,3.176091259
+12,Gray Wolf,4,1,3,4.48784512
+13,Bull Shark,1,1,3,5.500373714
+14,Blacktip Shark,1,1,3,5.089198367
+15,Dusky Shark,1,1,3,5.539703239
+16,Sandbar Shark,1,1,3,5.071513805
+17,Loggerhead Sea Turtle,2,3,1,5.194514342
+18,Seba's short tailed bat,4,3,1,1.305995883
+19,North American beaver ,4,3,1,4.338854746
+20,Eurasian Beaver,4,3,1,4.278753601
+21,Dwarf Cassowary,3,3,1,4.544068044
+22,Gulper shark,1,1,3,2.634789527
+23,Black-casqued Hornbill,3,3,1,3.204119983
+24,Brown-cheeked Hornbill,3,3,1,3.016197354
+25,Bailey's Pocket Mouse,4,3,1,1.419955748
+26,Atlantic Herring,1,2,3,3.021189299
+27,Yellow-shafted Flicker,1,3,1,2.086003706
+28,European Bullhead,1,1,1,1.246990699
+29,Nile crocodile,2,3,3,5.949058533
+30,Gunnison's Prairie Dog,4,3,1,2.966141733
+31,Black-tailed Prarie Dog,4,3,1,2.981365509
+32,Three Spotted Damselfish,1,3,1,1.934498451
+33,Common Dolphin,4,1,3,4.903089987
+34,Black Sea Common Dolphin,4,1,3,5.301029996
+35,Sheephead Bream,1,1,1,3.225309282
+36,Giant Kangaroo Rat,4,3,1,2.127104798
+37,Merriam's Kangaroo Rat,4,3,1,1.62324929
+38,Ord's Kangaroo Rat,4,3,1,1.781036939
+39,Banner-tailed kangaroo rat,4,3,1,2.133538908
+40,Stephen's Kangaroo Rat,4,3,1,1.843855423
+41,Flying Fox,4,3,1,2.667452953
+42,Patagonian Mara,4,3,1,3.903089987
+43,Black woodpecker,1,3,2,2.506505032
+44,Fruit Pigeon,1,3,1,2.754348336
+45,European Anchovy,1,1,1,1.324282455
+46,Sea Otter,4,1,1,4.371067862
+47,Dusky Grouper,1,1,3,1.77815125
+48,Gray Whale,4,3,1,7.45484486
+49,Northern Pike,1,1,3,4.544068044
+50,Threespot Damselfish,1,3,1,0.898725182
+51,Atlantic Cod,1,1,1,4.982271233
+52,Tiger Shark,1,1,3,5.907088745
+53,Blackmouth Catshark,1,1,3,3.136720567
+54,Plains Pocket Gopher,4,3,1,2.309630167
+55,Northern Flying Squirrel,4,3,1,2.220108088
+56,Gopher tortoise,2,3,1,3.740362689
+57,African black oystercatchers,3,1,2,2.840106094
+58,Grey seal ,4,1,3,5.602059991
+59,California Roach,1,1,1,1.544811912
+60,Silver-cheeked Toadfish,1,1,3,3.84509804
+61,Plains Vizcacha,4,3,1,3.667266119
+62,Audouin's Gull,3,1,2,2.728353782
+63,Southern hairy-nosed wombat,4,3,1,4.40654018
+64,Snowshoe hare,4,2,1,3.23299611
+65,Blackbellied Angler,1,1,3,2.849763273
+66,African elephant,4,3,1,6.59549997
+67,Eurasian Lynx,4,1,3,4.254064453
+68,Iberian lynx,4,1,3,3.973127854
+69,Greater Bilby,4,3,1,3.130333768
+70,Noisy miner,3,1,1,1.959041392
+71,Himalayan Marmot,4,3,1,3.819543936
+72,Siberian Marmot,4,3,1,3.903089987
+73,Slender-snouted crocodile,2,1,3,5.361727836
+74,Humpback Whale,4,3,3,7.477121255
+75,European Hake,1,1,3,4.176091259
+76,Spotted Bass,1,1,3,3.667452953
+77,Largemouth Bass,1,1,1,4.004321374
+78,Mediterranean Monk Seal,4,1,3,5.477121255
+79,Bat Ray,1,1,3,4.914343157
+80,Hornyhead Chub ,1,3,1,1.292256071
+81,Eastern Newt,2,1,2,0.903089987
+82,Plateau Pika,4,3,1,2.202678994
+83,American Pika,4,3,1,2.198657087
+84,Degu,4,1,1,2.322219295
+85,White tailed Deer,4,1,1,4.744363404
+86,Sockeye Salmon,1,1,3,3.887054378
+87,European Rabbit,4,2,1,3.33243846
+88,African Dwarf Crocodile,2,3,2,4.265795536
+89,Ice Rats,4,3,1,2.025305865
+90,California Ground Squirrel,4,3,1,2.762678564
+91,Harp Seal,4,1,1,5.113943352
+92,Jaguar,4,1,3,4.975431809
+93,Springhare,4,3,1,3.498999364
+94,European Perch,1,1,3,3.67669361
+95,Great Cormorant,3,1,2,3.402948829
+96,Harbor Seal,4,1,3,4.939519253
+97,Harbor Porpoise,4,1,3,4.77815125
+98,Black Sea Harbor Porpoise,4,1,3,4.698970004
+99,Bluefish,1,1,1,4.158362492
+100,Orii's flying fox,4,3,1,2.638489257
+101,Samoan Flying Fox,4,3,1,2.491361694
+102,Pacific Flying Fox,4,3,1,2.621176282
+103,Puma,4,1,3,4.51851394
+104,Ringed Seal,4,2,3,4.73239376
+105,Burmese Python,2,1,2,5.136720567
+106,Blyth's Hornbill,3,1,1,3.231418614
+107,Rainbow Trout,1,1,3,4.404833717
+108,Atlantic Salmon,1,1,3,4.670245853
+109,Brown Trout,1,1,3,4.698970004
+110,Zander,1,1,3,4.301029996
+111,Atlantic Bonito,1,1,1,4.041392685
+112,European Pilchard,1,1,3,1.165837625
+113,Round sardinella,1,1,3,2.62324929
+114,Atlantic mackerel,1,1,3,3.531478917
+115,Turbot,1,1,3,4.397940009
+116,Dusky Spinefoot,1,1,1,2.072102779
+117,Marbled Spinefoot,1,1,1,1.930898114
+118,Lesser Siren,2,3,1,1.698970004
+119,European Ground Squirrel,4,3,2,2.462397998
+120,Red-naped Sapsucker,3,3,2,1.703291378
+121,Scalloped Hammerhead,1,1,3,5.182984967
+122,European Sprat,1,1,1,0.86332286
+123,Spiny Dogfish,1,1,3,3.959041392
+124,Yelloweye Damselfish,1,1,1,1.832508913
+125,Little yellow shouldered Bat,4,3,1,1.371067862
+126,Marsh rabbit,4,1,1,3.230448921
+127,Alaska Pollock,1,1,3,3.58546073
+128,Botta's Pocket Gopher,4,3,1,2.06069784
+129,Yellowfin Tuna,1,1,1,5.301029996
+130,Atlantic Bluefin Tuna,1,1,3,5.835056102
+131,Common Bottlenose Dolphin,4,1,3,5.243038049
+132,Black Sea Bottlenose Dolphin,4,1,3,5.243038049
+133,Snow leopard,4,1,3,4.645097901
+134,Round Stingray,1,3,3,3.133538908
+135,Brown Bear,4,3,3,5.144390489
+136,Cape Ground Squirrel,4,3,1,2.795880017
+137,European bison,4,3,1,5.698970004
+138,Horse mussel,7,3,1,1.95616843
+139,Purple Sea Star,6,1,3,1.488550717
+140,Chilean abalone,7,1,2,1.626340367
+141,Maroon Mangrove Crab,5,3,1,0.468521083
+142,Australasian mangrove crab,5,3,1,0.000306
+143,Freshwater Crayfish,5,1,1,1.079181246
+144,Army Ant,5,3,1,1.758229457
+145,Sooty Beech Scale,5,3,1,2.15490196
+146,Beech Scale,5,3,1,2.301029996
+147,Tropical Arrow squid,7,1,2,2.864511081
+148,Daphnia spp.,5,1,1,3.53165267
+149,Daphnia spp.,5,1,1,3.53165267
+150,Spruce Bark Beetle,5,3,1,0.000304
+151,Blue Mussel,7,3,1,0.8162413
+152,Large Spiny Seastar,6,1,3,1.653212514
+153,Uruguayan fiddler crab,5,3,1,1.672097858
+154,Thin-fingered fiddler crab ,5,3,1,0.468521083
+155,Opossum Shrimp,5,1,1,3.397940009
+156,Funnel Ant,5,3,1,1.758229457
+157,Common Goby,1,2,1,1.627365857
+158,Lesser Glass Shrimp,5,1,1,0.477121255
+159,Redlip Croaker,1,1,1,2.278524965
+160,Japanese Snapping Shrimp,5,1,1,1.397940009
+161,Japanese Mantis Shrimp,5,1,1,1.707570176
+162,Black Sea Urchin,6,3,1,2.006037955
+163,Common Cockle,7,2,1,0.904174368
+164,Long-spined Sea Urchin,6,1,1,1.759667845
+165,European oyster,7,3,1,1.164352856
+166,Red Wood Ant,5,3,1,0.017449
+167,Weevil,5,1,1,0.00039
+168,Sun limpet,7,1,1,0.643452676
+169,Chinese white prawn ,5,2,1,1.158362492
+170,Northern Shrimp,5,1,1,0.686368103
+171,Mongolian Redfin,1,1,1,3.602059991
+172,Topmouth Cutler,1,1,3,2.77815125
+173,Japanese icefish,1,2,1,0.176091259
+174,Kollar termite,5,3,1,0.146128036
+175,Rusty Crayfish,5,1,1,1.134177108
+176,Atlantic Limpet,7,3,1,1.235528447
+177,Everglages Crayfish,5,1,1,1.342422681
+178,Deceitful Crayfish,5,1,1,1.544068044
+179,Purple Sea Urchin,6,1,1,2.657055853
+180,Grey-faced Petrel,3,3,3,3.053078443
+181,Murray Crayfish,5,3,2,4.397940009
+182,Common Green Darner,5,1,1,0.008174184
+183,Wildebeest,4,1,1,5.255270092
+184,Marsh Crab,5,1,1,0.096910013
+185,Bay Mussel,7,1,1,0.559906625
+186,Oedemera flavipes,5,3,1,0.044
+187,Western Honey Bee,5,3,1,0.115
+188,Cabbage White Butterfly,5,1,1,0.008
+189,Common Starfish,6,1,3,2.694919181
+190,Freshwater Pearl Mussel,7,1,1,0.919078092
+191,Saltwater Clam,7,1,1,1.5774918
+192,Black Manakin,3,3,1,1.255272505
+193,Banded Croaker,1,1,1,1.858537198
+194,Common Brittlestar,6,1,3,1.595771702
+195,Yellow-bellied Sapsucker,3,3,1,1.653212514
+196,High-shore Limpet,7,1,1,1.671172843
+197,Goldenrod gall Fly,5,3,1,0.005
+198,Polar Cod,1,2,1,2
+199,Ghost Shrimp,5,3,1,0.477121255
+200,Dourado,1,1,3,4.496929648
+201,Chrysomelid beetle,5,1,1,0.024
+202,Christmas Island red crab,5,3,1,2.683047038
+203,Green-backed firecrown,3,3,1,0.755874856
+204,Fire ant,5,1,1,0.0017
+205,Crown-of-Thorns-seastar,6,1,3,3.204119983
+206,American Alligator,2,3,3,5.201397124
+207,Dingo,4,1,3,4.255272505
+208,Western White-Throated Woodrat,4,3,1,2.31386722
+209,Southern Plains Woodrat,4,3,1,2.376576957
+210,Monito del Monte,4,3,1,1.204119983
+211,Freshwater Shrimp,5,3,1,1.716003344
+212,Fairy Shrimp,5,2,1,1.180125875
+213,Noble Crayfish,5,1,1,1.029383778
+214,Stone Crayfish,5,1,1,0.923761961
+215,Japanese Queenless Ant,5,3,1,0.009
+216,Southern Rock Lobster,5,1,1,2.957693467
+217,Arboreal Nesting Ants,5,1,1,0.007
